@@ -1,6 +1,6 @@
 
 # reactNative_flatList_chooseItem_forAllOrOneStatus_example
-## solve the FlatList-Rendering-Problem from RN course
+### solve the FlatList-Rendering-Problem from RN course
 
 ## Start
 
@@ -14,9 +14,10 @@
 
 ## Discription
 
-學員在「跨平台APP - React Native 快速學習攻略」專屬學員社團內提問到
+學員在「跨平台APP - React Native 快速學習攻略」專屬學員社團內
 https://www.facebook.com/groups/845690282560511
 
+提問到
 如何做一個能夠單選，也能全選的功能。
 若在全選後，點擊單一列表，就會取消全選。
 若所有列表都被點選後，就會變成是全選狀態。
